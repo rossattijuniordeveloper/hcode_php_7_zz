@@ -1,5 +1,8 @@
 <?php
 
-echo "Olá Mundo veio sem proteira !";
+echo "Olá Mundão !";
+
+echo "Olá Ávato";
+
 
 ?>
